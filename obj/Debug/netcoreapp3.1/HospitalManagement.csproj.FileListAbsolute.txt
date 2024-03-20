@@ -1,0 +1,269 @@
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.json
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.exe
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.deps.json
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.json
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.dev.json
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.pdb
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.dll
+E:\NITIN\TFSProjects\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.pdb
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.AssemblyReference.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfoInputs.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfo.cs
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CoreCompileInputs.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cs
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.Manifest.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.xml
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\HospitalManagement.styles.css
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.input.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.output.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorCoreGenerate.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cache
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cs
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CopyComplete
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.dll
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.pdb
+E:\NITIN\TFSProjects\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.genruntimeconfig.cache
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.exe
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.deps.json
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.json
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.dev.json
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.pdb
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.dll
+E:\Angular Projects\23 March\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.pdb
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.AssemblyReference.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfoInputs.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfo.cs
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CoreCompileInputs.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cs
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.Manifest.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.xml
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\HospitalManagement.styles.css
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.input.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.output.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorCoreGenerate.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cache
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cs
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CopyComplete
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.dll
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.pdb
+E:\Angular Projects\23 March\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.genruntimeconfig.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.pdb
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.exe
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.deps.json
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.json
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.dev.json
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.pdb
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.pdb
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.AssemblyReference.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfoInputs.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfo.cs
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cs
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.Manifest.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.xml
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\HospitalManagement.styles.css
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.input.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.output.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorCoreGenerate.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cs
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CopyComplete
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.genruntimeconfig.cache
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pooja\Hospital\Pooja Mam Hospital Angular\Pooja Mam Hospital Angular\HospitalManagement\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.exe
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.deps.json
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.json
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.dev.json
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.pdb
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.pdb
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.AssemblyReference.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfoInputs.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfo.cs
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CoreCompileInputs.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cs
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.Manifest.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.xml
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\HospitalManagement.styles.css
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.input.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.output.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorCoreGenerate.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cache
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cs
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CopyComplete
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.dll
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.pdb
+E:\Nitin\TFSProjects\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.genruntimeconfig.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.exe
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.deps.json
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.json
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.dev.json
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.pdb
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement_Models.pdb
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.AssemblyReference.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfoInputs.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfo.cs
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorAssemblyInfo.cs
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.Manifest.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\staticwebassets\HospitalManagement.StaticWebAssets.xml
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\HospitalManagement.styles.css
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.input.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.TagHelpers.output.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorCoreGenerate.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cache
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.RazorTargetAssemblyInfo.cs
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.Views.pdb
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CopyComplete
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.dll
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.pdb
+D:\Pooja\Hospital\Hospital_Nitin\Hospital Management\HospitalManagementAPI\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.genruntimeconfig.cache
