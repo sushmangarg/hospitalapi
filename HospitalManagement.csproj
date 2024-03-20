@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.27.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.29" />
+    <PackageReference Include="RestSharp" Version="104.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.27.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HospitalManagement_Models\HospitalManagement_Models.csproj" />
+  </ItemGroup>
+
+
+</Project>
